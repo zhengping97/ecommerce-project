@@ -1,3 +1,9 @@
+# Furniture ecommerce web application
+Following are resources used to build the application:
+
+##### 1. Visual Studio Code: (https://code.visualstudio.com/)
+##### 2. Formspree: (https://formspree.io/) Formspree is a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
