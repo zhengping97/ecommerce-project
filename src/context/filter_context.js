@@ -11,7 +11,7 @@ import {
   CLEAR_FILTERS,
 } from '../actions'
 import { useProductsContext } from './products_context'
-import GridView from '../components/GridView'
+//import GridView from '../components/GridView'
 
 const initialState = {
   filtered_products: [],
@@ -54,7 +54,7 @@ export const FilterProvider = ({ children }) => {
   }
 
   const updateSort = (e) => {
-    const name = e.target.name
+    //const name = e.target.name
     const value = e.target.value
     dispatch({ type: UPDATE_SORT, payload: value })
   }
