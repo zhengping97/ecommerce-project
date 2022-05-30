@@ -1,8 +1,41 @@
-# Furniture ecommerce web application
+# Furniture ecommerce web application https://fur-ecommerce-project.netlify.app/
 Following are resources used to build the application:
 
 ##### 1. Visual Studio Code: (https://code.visualstudio.com/)
 ##### 2. Formspree: (https://formspree.io/) Formspree is a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms.
+##### 3. Stripe: (https://stripe.com/) Stripe's products power payments for online and in-person retailers, subscriptions businesses, software platforms and marketplaces.
+##### 4. Netlify: (https://www.netlify.com/) Netlify is a cloud computing company that offers hosting and serverless backend services for web applications and static websites.
+
+## Styled Components
+
+```
+npm install styled-components
+```
+## React-Router-Dom
+
+```
+npm install react-router-dom
+```
+## React-icons
+
+```
+npm install react-icons
+```
+## Auth0 login
+
+```
+npm install @auth0/auth0-react
+```
+## Stripe
+
+```
+npm install --save stripe
+```
+## Netlify
+
+```
+npm install netlify-cli -D
+```
 
 # Getting Started with Create React App
 
